@@ -17,18 +17,36 @@
           display: block;
       }
 
-/* @media (max-width: 576px) { 
-    .arrow{
-        display: none;
-    }
- }
 
-
-@media (max-width: 768px) { 
-    .arrow{
-        display: none;
-    }
- } */
+      .fa {
+        padding: 20px;
+        font-size: 30px;
+        width: 30px;
+        text-align: center;
+        text-decoration: none;
+        margin: 5px 2px;
+        border-radius: 50%;
+      }
+      
+      .fa-facebook {
+        background: black;
+        color: white;
+      }
+      
+      .fa-twitter {
+        background:black;
+        color: white;
+      }
+      .fa-youtube {
+        background: black;
+        color: white;
+      }
+      
+      .fa-instagram {
+        background: black;
+        color: white;
+      }
+      
 
 
 
