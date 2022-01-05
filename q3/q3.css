@@ -1,0 +1,34 @@
+.fit-image{
+    width: 100%;
+    object-fit: cover;
+    height: 300px; /* only if you want fixed height */
+    }
+
+     ul.tick {
+        list-style: none;
+      }
+      
+      ul.tick li:before {
+        content: '✓';
+        color:orange;
+      }
+
+      .arrow{
+          display: block;
+      }
+
+/* @media (max-width: 576px) { 
+    .arrow{
+        display: none;
+    }
+ }
+
+
+@media (max-width: 768px) { 
+    .arrow{
+        display: none;
+    }
+ } */
+
+
+
